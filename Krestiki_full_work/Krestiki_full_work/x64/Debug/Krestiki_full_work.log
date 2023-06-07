@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\tdots\source\repos\Krestiki_full_work\Krestiki_full_work\MyForm.h(296,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\tdots\source\repos\Krestiki_full_work\Krestiki_full_work\MyForm.h(607,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\tdots\source\repos\Krestiki_full_work\Krestiki_full_work\MyForm.h(791): warning C4715: Krestikifullwork::krestiki::II_function: значение возвращается не при всех путях выполнения
+C:\Users\tdots\source\repos\Krestiki_full_work\Krestiki_full_work\MyForm.h(1345): warning C4715: Krestikifullwork::krestiki::II_functionO: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Krestiki_full_work.vcxproj -> C:\Users\tdots\source\repos\Krestiki_full_work\x64\Debug\Krestiki_full_work.exe

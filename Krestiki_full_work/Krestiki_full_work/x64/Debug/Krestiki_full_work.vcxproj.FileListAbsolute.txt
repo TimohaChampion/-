@@ -1,0 +1,4 @@
+C:\Users\tdots\source\repos\Krestiki_full_work\Krestiki_full_work\x64\Debug\Krestiki_full_work.vcxproj.AssemblyReference.cache
+C:\Users\tdots\source\repos\Krestiki_full_work\Krestiki_full_work\x64\Debug\Krestiki_full_work.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\tdots\source\repos\Krestiki_full_work\Krestiki_full_work\x64\Debug\Krestikifullwork.MyForm.resources
+C:\Users\tdots\source\repos\Krestiki_full_work\Krestiki_full_work\x64\Debug\Krestiki_full_work.vcxproj.GenerateResource.cache
